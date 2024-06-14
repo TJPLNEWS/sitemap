@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.tjplnews.com/news-article1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TJPL News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-06-14</news:publication_date>
+      <news:title>News Article 1 Title</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.tjplnews.com/news-article2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TJPL News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-06-14</news:publication_date>
+      <news:title>News Article 2 Title</news:title>
+    </news:news>
+  </url>
+  <!-- Add more articles as needed -->
+</urlset>
